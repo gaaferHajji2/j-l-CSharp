@@ -11,6 +11,15 @@ namespace HelloWorld02
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!!"); // This come from System-namespace
+
+            //checked
+            //{
+            //    byte number = 255;
+
+            //    Console.WriteLine("The Number Is: " + number);
+
+            //    //number += 1; // This Will Throw Exception
+            //}
         }
     }
 }
