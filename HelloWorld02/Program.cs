@@ -17,6 +17,10 @@ namespace HelloWorld02
 
             Console.WriteLine("My name is: " + firstName + " " + lastName);
 
+            var myName = "Jafar Loka";
+
+            Console.WriteLine("My Name using var is: " + myName);
+
             //checked
             //{
             //    byte number = 255;
