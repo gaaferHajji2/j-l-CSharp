@@ -21,6 +21,9 @@ namespace HelloWorld02
 
             Console.WriteLine("My Name using var is: " + myName);
 
+            Console.WriteLine("{0}, {1}", byte.MinValue, byte.MaxValue);
+            Console.WriteLine("My Name is: {0} {1}", "Jafar", "Loka");
+
             //checked
             //{
             //    byte number = 255;
