@@ -12,6 +12,11 @@ namespace HelloWorld02
         {
             Console.WriteLine("Hello World!!"); // This come from System-namespace
 
+            string firstName = "Jafar";
+            string lastName = "Loka";
+
+            Console.WriteLine("My name is: " + firstName + " " + lastName);
+
             //checked
             //{
             //    byte number = 255;
