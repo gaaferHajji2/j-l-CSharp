@@ -24,6 +24,9 @@ namespace HelloWorld02
             Console.WriteLine("{0}, {1}", byte.MinValue, byte.MaxValue);
             Console.WriteLine("My Name is: {0} {1}", "Jafar", "Loka");
 
+            // All types have minValue && maxValue
+            Console.WriteLine("Float: {0}, {1}", float.MinValue, float.MaxValue);
+
             //checked
             //{
             //    byte number = 255;
